@@ -1,0 +1,30 @@
+.pagecontainer {
+	/*border:  1px solid gray;*/
+	height: max-content;
+}
+.main_menu {
+	width:  auto;
+	padding: 20px;
+	/*border:  1px solid gray;*/
+	background-color: #ebd5e7;
+	display: flex;
+	flex-wrap: wrap;
+	align-content: center;
+	justify-content: space-around;
+	font: normal 12pt serif, sans-serif;
+}
+.title {
+	/*border:  1px solid gray;*/
+	text-align: center;
+}
+.content {
+	/*border:  1px solid gray;*/
+	align-content: center;
+	justify-content: space-around;
+	text-align: center;
+}
+button {
+	background-color: black;
+	color:  white;
+	padding: 15px 32px
+}
